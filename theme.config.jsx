@@ -5,7 +5,7 @@ export default {
       <span style={{ fontSize: 24, fontWeight: 700, marginLeft: 10 }}>QuackVault</span>
     </div>
     ),
-    docsRepositoryBase: 'https://github.com/quack-host/quack-vault',
+    docsRepositoryBase: 'https://github.com/AyeMate/quack-vault',
     footer: {
         text: <span>{new Date().getFullYear()} © QuackHost. Built by quacks and geese in high places ❤️.</span>
     },
